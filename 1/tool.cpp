@@ -29,6 +29,5 @@ int main()
 	cout<<endl;
 	p[5].show();
 	cout<<endl;
-	cout<<"测试"<<endl;
 	return 0;
 }
