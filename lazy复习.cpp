@@ -81,6 +81,6 @@ int main()
         }
         printf("Case %d: The total value of the hook is %d.\n",++kp,t[1].maxn);
     }
-    //懒惰标记
+    //懒惰标记 .
     return 0;    
 }
